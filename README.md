@@ -12,7 +12,7 @@ The following screens highlight core user flows for a modest clothing e-commerce
 
 ![About Us Page](AboutUsPage.png)
 
-![Login Page]()
+![Login Page](LoginPage.png)
 
 
 
