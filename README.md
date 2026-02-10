@@ -6,9 +6,9 @@ The following screens highlight core user flows for a modest clothing e-commerce
 
 ![Homepage](Homepage.png)
 
-![Product Detail Page]()
+![Product Detail Page](ProductDetailPage.png)
 
-![Cart Page]()
+![Cart Page](CartPage.png)
 
 ![About Us Page](AboutUsPage.png)
 
