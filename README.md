@@ -4,13 +4,13 @@ High-fidelity UX/UI website mockup for a real client brand, developed as a case 
 The following screens highlight core user flows for a modest clothing e-commerce experience, including the **Homepage**, **Product Detail Page**, **Cart Page**, **About the Brand**, and **Login Page**, covering the journey from discovery to purchase review.
 
 
-![Homepage]()
+![Homepage](Homepage.png)
 
 ![Product Detail Page]()
 
 ![Cart Page]()
 
-![About Us Page]()
+![About Us Page](AboutUsPage.png)
 
 ![Login Page]()
 
